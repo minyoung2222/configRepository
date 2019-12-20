@@ -1,0 +1,6 @@
+server: 
+  port: 8822
+
+test: 
+   message: banana prod
+   
